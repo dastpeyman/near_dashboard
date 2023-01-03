@@ -5,3 +5,4 @@ streamlit
 watchdog
 seaborn
 plotly
+pick
