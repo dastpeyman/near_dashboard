@@ -2,7 +2,6 @@ import os
 import argparse
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from shroomdk import ShroomDK
 from pick import pick
 import matplotlib.pyplot as plt
